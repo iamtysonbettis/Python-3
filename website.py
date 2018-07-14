@@ -1,3 +1,4 @@
 santdex
 youtube
 learning
+study
